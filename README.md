@@ -23,7 +23,7 @@ adapters.
 ✓ Moshi </br>
 ✓ Architecture Components (ViewModal, LiveData, DataBinding) </br>
 
---------------
+
 
 <p>
     <img alt="Evernote image" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1057743061695877150/1057832531703119922/Screenshot_2022-12-28-20-27-48-297_com.vinicius.marsphotos_Original.jpg?width=452&height=1004" width=300>
